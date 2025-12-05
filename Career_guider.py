@@ -9,7 +9,7 @@ import speech_recognition as sr
 import sys
 
 # --------------------------- CONFIG ---------------------------
-API_KEY = "AIzaSyDg8MSjNfjJDfczC0nJjFZcEh3w9XiDH-8"
+API_KEY = "Enter you API here"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 st.set_page_config(page_title="CareerMate.AI", layout="wide", page_icon="🎯")
 st.title("🎯 CareerMate.AI - Your AI Career Co-Pilot")
@@ -264,3 +264,4 @@ elif menu == "Settings":
 # --------------------------- Footer ---------------------------
 st.markdown("---")
 st.markdown("© 2025 CareerMate.AI — Made with ❤️ by Rahul Kumar")
+
