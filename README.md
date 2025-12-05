@@ -30,4 +30,4 @@ Decisions regarding career, employment, and applications should be made with per
 **👨‍💻 Developed By**
 
 Rahul Kumar
-AI & Full-Stack Innovation • Passionate about solving real-world problems with A
+AI & Full-Stack Innovation • Passionate about solving real-world problems with AI
