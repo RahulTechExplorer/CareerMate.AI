@@ -1,33 +1,20 @@
-**🎯 CareerMate.AI – Your AI Career Co-Pilot**
+**🎯 CAREERMATE.AI – YOUR AI CAREER CO-PILOT**
+CareerMate.AI is an AI-powered career guidance platform helping students and professionals make informed career decisions using Google Gemini AI. It delivers personalized career paths, resume analysis, mock interview evaluation, skill gap insights, job market trends, and networking suggestions through a modern Streamlit interface.
 
-CareerMate.AI is an intelligent, AI-powered career assistance platform built to guide students and professionals in making confident career decisions. Powered by Google Gemini AI, it provides personalized career paths, resume analysis, mock interview feedback, networking suggestions, skill-gap analysis, and real-time job market insights — all within a simple Streamlit interface.
+**🚀 KEY FEATURES**
+AI Career Guidance: Personalized career paths based on skills and interests.
+Resume Analyzer: Extracts resume content and provides improvement suggestions.
+Mock Interview Simulator: Allows practice through text or voice with AI feedback.
+Networking & Job Portals: Recommends role-based platforms and job search links.
+Skill Recommendations: Identifies missing skills and learning paths.
+Job Market Insights: Provides salary, demand, and industry trends.
+User-Friendly Interface: Clean, modern, intuitive UI designed in Streamlit.
 
-**🚀 Key Features**
+**🎯 PURPOSE**
+To simplify career decision-making through AI-powered insights, automation, and interactive user engagement, enabling clarity, confidence, and direction in professional growth.
 
-AI Career Guidance – Receive personalized role suggestions based on skills, interests, and background.
+**⚠ DISCLAIMER**
+CareerMate.AI offers AI-generated suggestions for guidance purposes only. Final decisions should involve personal judgment and professional consultation when needed.
 
-Resume Analyzer – Extracts and reviews resumes, offering strengths, weaknesses, and improvement tips.
-
-Mock Interview Simulator – Practice interviews through text or voice and get AI-generated feedback.
-
-Networking & Job Portals – Smart links for role-specific networking and job search.
-
-Skill Recommendations – Identifies missing skills and suggests relevant learning paths.
-
-Job Market Insights – Get up-to-date demand, salaries, and industry trends for any role.
-
-User-Friendly Interface – Clean, intuitive UI built with Streamlit.
-
-**🎯 Purpose**
-
-CareerMate.AI aims to simplify career decision-making by combining automation, AI-driven insights, and interactive tools. It empowers users with clarity, confidence, and direction in their professional journey.
-
-**⚠ Disclaimer**
-
-CareerMate.AI provides AI-generated suggestions for guidance and improvement.
-Decisions regarding career, employment, and applications should be made with personal discretion and professional consultation when needed.
-
-**👨‍💻 Developed By**
-
-Rahul Kumar
-AI & Full-Stack Innovation • Passionate about solving real-world problems with AI
+**👨‍💻 DEVELOPED BY**
+Rahul Kumar – AI & Full-Stack Innovation, focused on creating impactful, real-world AI solutions.
