@@ -31,3 +31,7 @@ Decisions regarding career, employment, and applications should be made with per
 
 Rahul Kumar
 AI & Full-Stack Innovation • Passionate about solving real-world problems with AI
+
+
+c<img width="2820" height="1284" alt="Screenshot 2025-12-05 201458" src="https://github.com/user-attachments/assets/50718f38-6000-48be-a8ee-50ec6ca48ed4" />
+
